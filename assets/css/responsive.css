@@ -1,0 +1,800 @@
+@media only screen and (max-width: 1366px) {
+    .avt-img > img {
+        width: 100%;
+    }
+    .error-page .error-text .btn-default {
+        margin-bottom: 70px;
+    }
+    .error-page .page-title {
+        font-size: 200px;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    header .navigation-bar nav ul li {
+        margin-right: 36px;
+    }
+    header .header-content .contact-add {
+        -ms-flex: 0 0 67%;
+        flex: 0 0 67%;
+        max-width: 67%;
+    }
+    .main-banner .banner-text > h2 {
+        font-size: 54px;
+        line-height: 72px;
+    }
+    .about-us-section {
+        padding: 35px 0 100px;
+    }
+    .classes-section {
+        padding-bottom: 50px;
+    }
+    .teachers-section {
+        padding: 45px 0 70px;
+    }
+    .course-section .courses-list .course-card:nth-child(2) {
+        left: -50px;
+    }
+    .course-section {
+        padding-bottom: 70px;
+    }
+    .blog-section .blog-posts .blog-post .blog-info > h3 {
+        font-size: 18px;
+    }
+    .blog-section {
+        padding-bottom: 70px;
+    }
+    .newsletter-section .newsletter-sec {
+        padding: 57px 50px 55px;
+    }
+    footer {
+        padding: 219px 0 40px;
+    }
+    .meta li {
+        margin-right: 5px;
+    }
+    .blog-section .blog-posts .blog-post .blog-info {
+        padding: 0;
+    }
+    .newsletter-section .newsletter-sec .newsz-ltr-text > h2 {
+        font-size: 30px;
+        line-height: 44px;
+        margin-bottom: 25px;
+    }
+    .about-page-content {
+        padding: 90px 0 0;
+    }
+    .benifit-section {
+        padding: 50px 0 40px;
+    }
+    .pager-section.blog-version {
+        padding: 120px 0 150px;
+    }
+    .blog-section.posts-page .blog-posts .blog-post .blog-thumbnail .category {
+        left: 0;
+    }
+    .masonary li.width3,
+    .masonary li.width4,
+    .masonary li.width6 {
+        margin-top: 0;
+    }
+    .masonary li {
+        margin-top: 0 !important;
+    }
+    .masonary li.width5 {
+        padding-left: 19px;
+    }
+    .error-page .page-title {
+        font-size: 160px;
+    }
+    .error-page .error-text h2 {
+        font-size: 120px;
+    }
+    .error-page .error-text h3 {
+        font-size: 40px;
+        margin-bottom: 35px;
+    }
+    .teacher-single-page .teacher-content {
+        padding-left: 0;
+    }
+    .teacher-single-page .teacher-content .rol-z .rol-info {
+        max-width: calc(100% - 50px);
+    }
+    .teacher-single-page .teacher-content .rol-z .rol-info span {
+        padding-right: 10px;
+        box-sizing: border-box;
+        word-break: break-all;
+    }
+    .class-single-content h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .class-sidebar {
+        top: 0;
+    }
+    .pager-section .pager-content > h2 {
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .search-content .teacher-col {
+        margin-bottom: 50px;
+    }
+    .teacher-col .teacher-thumb img {
+        width: 100%;
+    }
+    .schedule-page .schedule-content .schp-list li .mkd-info > h3 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .schedule-page .schedule-content .schp-list li .mkd-info > span {
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    header .header-content .contact-add,
+    header .navigation-bar {
+        display: none !important;
+    }
+    .banner-img > img {
+        max-width: 100%;
+    }
+    .main-section {
+        background: #f2f7fd;
+    }
+    .main-banner .banner-text > h2 {
+        font-size: 44px;
+        line-height: 58px;
+    }
+    .about-us-section .about-sec .abt-col {
+        margin-bottom: 30px;
+    }
+    .about-sec .row {
+        margin-bottom: -30px;
+    }
+    .teachers-section .teachers .teacher .teacher-info {
+        padding: 0;
+        margin-top: 25px;
+    }
+    .teachers-section .teachers .teacher .teacher-info > h3 {
+        font-size: 16px;
+    }
+    .course-img {
+        display: none;
+    }
+    .course-section .courses-list .course-card:nth-child(2) {
+        left: 0;
+    }
+    .course-section .courses-list {
+        margin-top: 0;
+    }
+    .blog-post {
+        margin-bottom: 50px;
+    }
+    .blog-posts .row {
+        margin-bottom: -50px;
+    }
+    .newsz-ltr-text {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .newsletter-section .newsletter-sec .newsletter-form {
+        padding-left: 0;
+    }
+    .newsletter-section .newsletter-sec {
+        border-radius: 10px;
+        background: #fcbe31;
+    }
+    .newsletter-section .newsletter-sec .newsz-ltr-text > h2 {
+        font-size: 40px;
+        line-height: 54px;
+    }
+    .top-footer .widget {
+        margin-bottom: 50px;
+    }
+    .top-footer .row {
+        margin-bottom: -50px;
+    }
+    .about-us-section {
+        padding: 70px 0 100px;
+    }
+    .menu-btn {
+        display: block;
+    }
+    .pager-section .pager-content > h2 {
+        font-size: 44px;
+    }
+    .pager-section .page-titlee {
+        font-size: 100px;
+    }
+    .about-page-content .abt-page-row .section-title h2 {
+        font-size: 34px;
+        line-height: 46px;
+    }
+    .about-page-content .abt-page-row .row {
+        margin-bottom: 60px;
+    }
+    .about-page-content .abt-page-row .row:last-child {
+        margin-bottom: 0;
+    }
+    .page-content {
+        padding: 100px 0;
+    }
+    .sidebar {
+        margin-top: 60px;
+    }
+    .sidebar .widget-calendar .mdp-calendar table tbody td.active {
+        border-radius: 20px;
+    }
+    .classes-page {
+        padding: 100px 0;
+    }
+    .classes-page .classes-banner {
+        padding: 90px 20px;
+    }
+    .mdp-contact .comment-area form .form-submit {
+        text-align: left;
+    }
+    .mdp-our-contacts {
+        margin-top: 50px;
+    }
+    .pager-section.blog-version .pager-content > h2 {
+        line-height: 52px;
+        margin-bottom: 25px;
+    }
+    .pager-section.blog-version {
+        padding: 100px 0;
+    }
+    .mdp-contact .comment-area {
+        padding-right: 0;
+    }
+    .sidebar {
+        max-width: 300px;
+    }
+    header .header-content {
+        border-bottom: 0;
+    }
+    .about-page-content .act-inffo > h2 {
+        font-size: 36px;
+    }
+    .pager-section {
+        background: #f2f7fd;
+    }
+    .masonary li.width5 {
+        padding-left: 9.5px;
+    }
+    .teacher-single-page .teacher-content p {
+        max-width: 100%;
+    }
+    .teacher-single-page .teacher-coly {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .sidebar.class-sidebar {
+        margin-left: inherit;
+    }
+    .page-content.style2 {
+        padding: 43px 0 100px;
+    }
+    .widget.widget-contact-dp.mdp-contact .mdp-our-contacts {
+        margin-top: 0;
+    }
+    .schedule-page .nav-tabs li {
+        margin-right: 15px;
+    }
+    .schedule-mobile-content {
+        display: block;
+    }
+    .schedule-page .schedule-content {
+        display: none;
+    }
+    .teacher-single-page .teacher-content .skills-tech,
+    .teacher-single-page .teacher-content .tech-detils {
+        max-width: 100%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .banner-img {
+        display: none;
+    }
+    .banner-text {
+        text-align: center;
+    }
+    .main-banner .banner-text .search-form {
+        max-width: 100%;
+    }
+    .main-banner .banner-text .search-form:before {
+        right: -10px;
+    }
+    .sec-title > h2,
+    .section-title > h2 {
+        font-size: 40px;
+    }
+    .about-us-section {
+        padding: 70px 0;
+    }
+    .classes-section .sec-title {
+        max-width: 75%;
+    }
+    .teachers-section {
+        padding-top: 25px;
+    }
+    .teachers-section .section-title > h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .teacher {
+        margin-bottom: 30px;
+    }
+    .teachers,
+    .teachers .row {
+        margin-bottom: -30px;
+    }
+    .pager-section {
+        padding: 45px 0 50px;
+    }
+    .about-page-content .abt-page-row {
+        text-align: center;
+    }
+    .about-page-content .abt-page-row .row:first-child .col-lg-6:nth-child(1) {
+        -ms-flex-order: 1;
+        order: 1;
+    }
+    .avt-img {
+        margin-bottom: 50px;
+    }
+    .about-page-content .abt-page-row .section-title h2 br {
+        display: none;
+    }
+    .about-page-content .abt-page-row .section-title {
+        margin-bottom: 0;
+    }
+    .blog-section.posts-page .blog-posts .blog-post .blog-info h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .blog-section.posts-page .blog-posts .blog-post.quote-post {
+        padding: 50px 20px 51px;
+    }
+    .classes-page .classes-banner > h2 {
+        font-size: 36px;
+    }
+    .blog-post.single blockquote {
+        padding: 55px 40px 60px;
+    }
+    .page-content.p80 {
+        padding: 80px 0 100px;
+    }
+    .about-page-content .abt-page-row {
+        text-align: left;
+    }
+    .elements-bg,
+    .sec-title > h2:before {
+        display: none;
+    }
+    .main-banner .banner-text .search-form {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .main-banner .banner-text p {
+        max-width: 100%;
+    }
+    .main-banner .col-md-7 {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+    }
+    .masonary li.width5 {
+        padding-left: 0;
+    }
+    .masonary li.width3 {
+        margin-top: 0;
+    }
+    .masonary li.width5 {
+        padding-left: 9.5px;
+    }
+    .error-page .error-text h3 {
+        font-size: 28px;
+    }
+    .error-page .error-text .btn-default {
+        margin-bottom: 50px;
+    }
+    .error-page {
+        background: #f2f7fd;
+    }
+    .page-title {
+        display: none;
+    }
+    .page-content .teachers-section .teachers .teacher {
+        margin-bottom: 40px;
+    }
+    .page-content .teachers,
+    .teachers .row {
+        margin-bottom: -40px;
+    }
+    .page-content .teachers-section .section-title h2 {
+        font-size: 34px;
+    }
+    .class-single-content h2 {
+        font-size: 32px;
+        line-height: 45px;
+    }
+    .class-gallery .row {
+        margin: 0 -10px;
+    }
+    .class-gallery .row .col-md-3 {
+        padding: 0 10px;
+    }
+    .pager-section .pager-content > h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .pager-section .page-titlee {
+        display: none;
+    }
+    .schedule-page .schedule-content .schedule-head li,
+    .schedule-page .schedule-content .shedule-list li {
+        width: 100%;
+    }
+    .schedule-page .nav-tabs li {
+        margin-bottom: 20px;
+    }
+    .schedule-page .nav-tabs {
+        margin-bottom: 10px;
+    }
+    .page-content .teachers-section.teacher-page .section-title h2 {
+        font-size: 32px;
+        line-height: 44px;
+    }
+    .page-content .teachers-section.teacher-page .teachers .teacher {
+        margin-bottom: 40px;
+    }
+    .schedule-content {
+        display: none;
+    }
+}
+@media only screen and (max-width: 576px) {
+    .about-us-section .about-sec .abt-col,
+    .blog-posts,
+    .sec-title,
+    footer {
+        text-align: center;
+    }
+    footer .bottom-footer .social-links {
+        text-align: center;
+        margin-top: 20px;
+    }
+    footer .widget-contact ul li .contact-tt {
+        max-width: 100%;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .classes-section .sec-title {
+        text-align: left;
+    }
+    .benifit-section {
+        text-align: center;
+    }
+    .benifit-section .about-us-section .about-sec .row .col-lg-6:nth-child(2),
+    .benifit-section .about-us-section .about-sec .row .col-lg-6:nth-child(4) {
+        top: 0;
+        position: static;
+    }
+    .pager-section .pager-content > h2 {
+        font-size: 34px;
+    }
+    .page-content {
+        padding: 70px 0;
+    }
+    .blog-section.posts-page .blog-posts .blog-post.without-title .blog-info p {
+        font-size: 16px;
+    }
+    .blog-section.posts-page .blog-posts .blog-post .blog-info .chat-format li > strong,
+    .blog-section.posts-page .blog-posts .blog-post .blog-info .chat-format li p {
+        text-align: left;
+    }
+    .blog-section.posts-page .blog-posts .blog-post .blog-info h3 {
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .mdp-pagiation .pagination {
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .mdp-map iframe {
+        height: 300px;
+    }
+    .mdp-contact .comment-area h3,
+    .mdp-contact .mdp-our-contacts h3 {
+        font-size: 30px;
+    }
+    .mdp-contact,
+    .mdp-contact .comment-area form .form-submit {
+        text-align: center;
+    }
+    .mdp-contact .mdp-our-contacts .dd-cont {
+        width: 100%;
+        padding-left: 0;
+    }
+    .icon-v {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .mdp-schedule-list .mdp-schedule > h3 {
+        padding: 0 20px 10px;
+    }
+    .pager-section.blog-version .pager-content > h2 {
+        line-height: 40px;
+    }
+    .pager-section.blog-version {
+        padding: 70px 0;
+    }
+    .blog-post.single {
+        text-align: center;
+    }
+    .mdp-post-comments ul li .mdp-comment .mdp-img {
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+    .mdp-post-comments ul li .mdp-comment .mdp-com {
+        width: 100%;
+        padding-left: 0;
+        max-width: 100%;
+    }
+    .mdp-comment.d-flex.flex-wrap {
+        display: block !important;
+        text-align: center;
+    }
+    .mdp-post-comments ul li .mdp-comment .mdp-com .reply-btn {
+        text-align: center;
+    }
+    .mdp-post-comments {
+        margin-bottom: 50px;
+    }
+    .mdp-sub-title {
+        text-align: center;
+        font-size: 30px;
+    }
+    .blog-post.single {
+        margin-bottom: 50px;
+    }
+    .blog-posts {
+        text-align: left;
+    }
+    footer .widget-contact ul li {
+        width: calc(100% / 2 - 20px);
+        display: inline-block;
+    }
+    .error-page .error-text h2 {
+        font-size: 90px;
+        margin-bottom: 0;
+    }
+    .class-sidebar .widget-contact-dp .mdp-our-contacts .dd-cont,
+    .sidebar.class-sidebar {
+        max-width: 100%;
+    }
+    .ordrd {
+        margin-bottom: 15px;
+    }
+    .class-single-content .btn-default,
+    .search-content.classes-page .classes-col .class-info,
+    .teacher--info {
+        margin-top: 30px;
+    }
+    .search-content .blog-section .blog-posts .blog-post .blog-info,
+    .teacher--info {
+        text-align: center;
+    }
+    .masonary li {
+        width: 50% !important;
+    }
+    .masonary,
+    .masonary li {
+        height: auto !important;
+        position: static !important;
+    }
+    .masonary {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .masonary li.width4 img {
+        width: 100%;
+        height: auto;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .main-banner .banner-text > h2 {
+        padding-right: 0;
+        font-size: 30px;
+        line-height: 44px;
+        margin-bottom: 20px;
+    }
+    .main-banner .banner-text p {
+        margin-bottom: 40px;
+    }
+    .main-banner {
+        padding: 50px 0;
+    }
+    .sec-title > h2,
+    .section-title > h2,
+    .teachers-section .section-title > h2 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+    .classes-section .sec-title {
+        text-align: center;
+        max-width: 100%;
+        margin-bottom: 70px;
+    }
+    .classes-carousel .slick-next,
+    .classes-carousel .slick-prev {
+        top: -40px;
+    }
+    .classes-carousel .slick-prev {
+        right: auto;
+        left: 15px;
+    }
+    .classes-carousel .slick-next {
+        left: auto;
+        right: 15px;
+    }
+    .full-wdth {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .course-section .courses-list .course-card,
+    .teachers {
+        text-align: center;
+    }
+    .course-meta {
+        width: 100%;
+    }
+    .course-section .courses-list .course-card .course-meta + span {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .posted-by {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .course-section .courses-list .course-card .locat {
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .course-section .courses-list .course-card:before {
+        height: 166px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .course-section .courses-list .course-card > h3 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .course-section .all-btn {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .newsletter-section .newsletter-sec {
+        padding: 40px 20px;
+    }
+    .newsletter-section .newsletter-sec .newsz-ltr-text > h2 {
+        font-size: 30px;
+        line-height: 44px;
+    }
+    .responsive-menu {
+        width: 100%;
+    }
+    .about-page-content {
+        padding: 60px 0 0;
+    }
+    .about-page-content .act-inffo > h2 {
+        margin-top: 12px;
+        font-size: 30px;
+    }
+    .benifit-section {
+        padding: 25px 0 0;
+    }
+    .classes-sec .posted-by {
+        width: auto;
+    }
+    .blog-section.posts-page .blog-posts .blog-post .blog-info h3 {
+        font-size: 22px;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .classes-page .classes-banner > h2 {
+        font-size: 23px;
+    }
+    .classes-page .classes-banner {
+        padding: 50px 20px;
+    }
+    .mdp-map iframe {
+        height: 220px;
+    }
+    .mdp-schedule-list .mdp-schedule > h3 {
+        font-size: 17px;
+    }
+    .mdp-schedule-list .mdp-schedule ul li > span,
+    .mdp-schedule-list .mdp-schedule ul li > strong {
+        font-size: 14px;
+    }
+    .pager-section.blog-version .pager-content > h2 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .blog-post.single blockquote {
+        padding: 55px 20px 60px;
+    }
+    .page-content.p80 {
+        padding: 80px 0 70px;
+    }
+    body.scroll-hide {
+        overflow: hidden;
+    }
+    .course-section .courses-list .course-card:before {
+        display: none;
+    }
+    .course-section .courses-list .course-card {
+        border-left: 4px solid #faad32;
+    }
+    footer .widget-contact ul li {
+        width: 100%;
+        display: block;
+    }
+    .masonary li {
+        padding-left: 0 !important;
+    }
+    .error-page .error-text h2 {
+        font-size: 70px;
+        margin-bottom: -20px;
+    }
+    .error-page .error-text h3 {
+        font-size: 18px;
+    }
+    .teacher-single-page .teacher-content .tech-detils li {
+        display: block;
+        text-align: center;
+    }
+    .teacher-single-page .teacher-content .tech-detils li span {
+        display: block;
+        margin-top: 10px;
+    }
+    .page-content .teachers-section .section-title h2 {
+        font-size: 26px;
+    }
+    .class-single-content h2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .pager-section .pager-content > h2 {
+        font-size: 23px;
+    }
+    .sg-event {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .search-content.classes-page .classes-col .class-info {
+        text-align: center;
+    }
+    .classes-section .classes-col .class-info .price {
+        margin: 0 auto;
+    }
+    .schedule-page .nav-tabs li {
+        width: 100%;
+    }
+    .schedule-page .nav-tabs li a {
+        width: 100%;
+        text-align: center;
+    }
+    .teacher-single-page .teacher-content .tech-detils {
+        background: #fff;
+    }
+    .schedule-mobile-content .ttb-list > ul li .dd-info h3 {
+        line-height: 24px;
+    }
+}
