@@ -1,0 +1,36 @@
+
+$primary-font : 'Open Sans', sans-serif;;
+$secondary-font : 'Poppins', sans-serif;;
+
+$basic-size : 16px;
+$sec-spacing: 140px 0;
+$sec-spacing2: 155px 0;
+
+$para-color: #5D6978;
+$primary-color: #D8AB37;
+$heading-color: #2F3237;
+$bg-color: #22262F;
+
+@mixin transition($property) {
+	-webkit-transition: $property;
+	-ms-transition: $property;
+	transition: $property;
+}
+
+@mixin transform($property) {
+	-webkit-transform: $property;
+	-ms-transform: $property;
+	transform: $property;
+}
+
+@mixin boxshadow($property) {
+	-webkit-box-shadow: $property;
+	-ms-box-shadow: $property;
+	box-shadow: $property;
+}
+
+@mixin radius($property) {
+	-webkit-border-radius: $property;
+	-ms-border-radius: $property;
+	border-radius: $property;
+}
