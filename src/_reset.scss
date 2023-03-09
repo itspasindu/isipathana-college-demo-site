@@ -1,0 +1,165 @@
+
+@import 'base.scss';
+
+
+/*===================== TABLE OF CONTENT =======================
+
+1 - UNIQUE HOMEPAGE 
+2 - RESET CSS
+3 - ABOUT US
+4 - 2 DIFFERENT BLOG PAGES
+5 - BLOG DETAILS PAGE
+6 - CART PAGE
+7 - CHECKOUT PAGE
+8 - RESTAURANT PAGE
+9 - RESTAURANT DETAILS PAGE
+10 - TESTIMONIALS
+11 - FAQs
+12 - 404
+
+=============================================================*/
+
+
+/* ==========================================================================
+                                RESET CSS
+============================================================================= */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+
+body {
+  font-family: $primary-font;
+  color: #aeb4b6;
+  font-size: $basic-size;
+  font-weight: 400; 
+  overflow-x: hidden;
+  position: relative;
+}
+body.no-scroll {
+  overflow-y: hidden;
+}
+button {
+  cursor: pointer;
+  border:0;
+}
+button:focus {
+  outline: none;
+}
+img {
+  vertical-align: middle;
+  height:auto;
+}
+
+a:focus,
+a:hover {
+  text-decoration: none; 
+}
+
+
+ul {
+  padding: 0;
+  margin: 0; 
+}
+li {
+  list-style: none; 
+}
+
+h1,
+h2,
+h3 {
+  font-family: $secondary-font;
+}
+
+p {
+  font-size: 16px;
+  line-height: 27px;
+  color: $para-color;
+}
+
+section {
+  display: block;
+  position: relative;
+}
+select:focus {
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none; 
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  box-shadow: inherit;
+}
+a {
+  color:inherit;
+}
+a:hover {
+  color: inherit;
+}
+a {
+  @include transition(all 0.4s ease-in-out);
+  text-decoration: none;
+}
+.sec-block {
+  padding: $sec-spacing;
+}
+.sec-block-large {
+  padding: $sec-spacing2;
+}
+
+
+
+
+.fixed-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+// SECTION BACKGROUND IMAGES
+
+ 
+.bg1 {
+  background-image: url(../images/resources/bg1.jpg);
+}
+.bg2 {
+  background-image: url(../images/resources/bg2.jpg);
+}
+.bg3 {
+  background-image: url(../images/resources/bg3.jpg);
+}
+.bg4 {
+  background-image: url(../images/resources/bg4.jpg);
+}
+
+
