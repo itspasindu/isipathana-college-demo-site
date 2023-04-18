@@ -1,15 +1,6 @@
-/**
- * Shelly HTML Template
- * Shelly School HTML Template has been specially designed with your learning community in mind.
- * Exclusively on https://1.envato.market/tf-merkulove
- *
- * @encoding        UTF-8
- * @version         1.0.1
- * @copyright       (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
- * @license         Envato License https://1.envato.market/KYbje
- * @contributors    Dmitry Merkulov (dmitry@merkulov.design)
- * @support         help@merkulov.design
- **/
+
+ 
+
 
 ( function ( $ ) {
 
